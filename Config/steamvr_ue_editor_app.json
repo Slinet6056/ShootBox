@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.gameplaydesigner-14469661.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "P:/Projects/Work/13_Tutorial_Epic/0_Learn/Gameplay Designer/Course_1_Project/Marketplace Submit/GameplayDesigner/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "GameplayDesigner-14469661 [UE Editor]"
+				}
+			}
+		}
+	]
+}

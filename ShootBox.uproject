@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "EpicLeaderboard",
+			"Enabled": false
+		},
+		{
+			"Name": "OpenVRExpansionPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "VRExpansionPlugin",
+			"Enabled": false
+		}
+	]
+}
